@@ -1310,6 +1310,7 @@ img{
     padding-top: 15px;
     resize: none;
 }
+.contact-section .loading-btn,
 .contact-section .submit-btn{
     flex: 0 0 100%;
     max-width: 100%;
@@ -1317,6 +1318,42 @@ img{
     padding: 0 15px;
 }
 
+/* alert  */
+.contact-section .alert-success{
+    display: none;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-top: 50px;
+    padding: 20px 15px;  
+}
+.contact-section .alert-success-inner{
+    padding: 20px 15px;  
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+    opacity: 1;
+}
+.contact-section .alert-success p{
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--skin-color);
+    line-height: 26px;
+
+    margin: 0;
+    word-break: break-word;
+    animation: loaderAni 1s ease infinite;
+}
+
+
+/* btn loading */
+
+.contact-section .loading-btn{
+    display: none;
+}
+.contact-section .loading-btn p{
+    font-weight: 600;
+    animation: leftBounch 2s linear infinite ;
+}
 
 
 
