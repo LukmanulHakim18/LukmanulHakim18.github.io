@@ -7,13 +7,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lukmanul hakim's site</title>
     <link rel="icon" href="assets/images/icon-product/icon.png">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/skins/color-1.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+
+
+    <link rel="stylesheet" type="text/css" href="assets/css/style-switcher.css">
+    <!-- color skin -->
+    <link rel="stylesheet" type="text/css" href="assets/css/skins/color-1.css">
+    <!-- style switcher for demo purposes only -->
+    <link rel="stylesheet" type="text/css" class="alternate-style" title="color-1" href="assets/css/skins/color-1.css"
+        disabled>
+    <link rel="stylesheet" type="text/css" class="alternate-style" title="color-2" href="assets/css/skins/color-2.css"
+        disabled>
+    <link rel="stylesheet" type="text/css" class="alternate-style" title="color-3" href="assets/css/skins/color-3.css"
+        disabled>
+    <link rel="stylesheet" type="text/css" class="alternate-style" title="color-4" href="assets/css/skins/color-4.css"
+        disabled>
+    <link rel="stylesheet" type="text/css" class="alternate-style" title="color-5" href="assets/css/skins/color-5.css"
+        disabled>
 
 </head>
 
-<body>
+<body class="dark">
+
+    <!-- preloader start-->
+    <div class="preloader">
+        <div class="box">
+            <div></div><div></div><div></div>
+        </div>
+    </div>
+    <!-- preloader end-->
     <!-- header start -->
     <header class="header">
         <div class="container">
@@ -33,19 +58,22 @@
         <div class="close-nav-menu outer-shadow hover-in-shadow">&times;</div>
         <div class="nav-menu-inner">
             <ul>
-                <li><a href="#" class="inner-shadow active">home</a></li>
-                <li><a href="#" class="outer-shadow hover-in-shadow">about</a></li>
-                <li><a href="#" class="outer-shadow hover-in-shadow">services</a></li>
-                <li><a href="#" class="outer-shadow hover-in-shadow">portofolio</a></li>
-                <li><a href="#" class="outer-shadow hover-in-shadow">testimonial</a></li>
-                <li><a href="#" class="outer-shadow hover-in-shadow">contact</a></li>
+                <li><a href="#home" class="link-item inner-shadow active">home</a></li>
+                <li><a href="#about" class="link-item outer-shadow hover-in-shadow">about</a></li>
+                <li><a href="#services" class="link-item outer-shadow hover-in-shadow">services</a></li>
+                <li><a href="#portfolio" class="link-item outer-shadow hover-in-shadow">portofolio</a></li>
+                <li><a href="#testimonial" class="link-item outer-shadow hover-in-shadow">testimonial</a></li>
+                <li><a href="#contact" class="link-item outer-shadow hover-in-shadow">contact</a></li>
             </ul>
         </div>
         <p class="copyright-text"> &copy 2021 Lukmanul Hakim (APCorp)</p>
     </nav>
+    <div class="fade-out-effect">
+
+    </div>
     <!-- nafigation end -->
     <!-- home section start -->
-    <section class="home-section section">
+    <section class="home-section section active" id="home">
         <!-- effect wrap start -->
         <div class="effect-wrap">
             <div class="effect effect-1"></div>
@@ -101,7 +129,7 @@
                     <p>Assalamualaikum</p>
                     <h2>I'm Lukmanul Hakim</h2>
                     <h1>Back-end Developer</h1>
-                    <a href="" class="btn-1 outer-shadow hover-in-shadow">More About me</a>
+                    <a href="#about" class="link-item btn-1 outer-shadow hover-in-shadow">More About me</a>
                 </div>
                 <div class="home-img">
                     <div class="img-box inner-shadow">
@@ -113,7 +141,7 @@
     </section>
     <!-- home section end -->
     <!-- about section start -->
-    <section class="about-section section">
+    <section class="about-section section" id="about">
         <div class="container">
             <div class="row">
                 <div class="section-title">
@@ -145,7 +173,7 @@
                     </p>
                     <p>Jika ingin membaca curriculum vitae saya, saya melampirkan link dibawah ini:</p>
                     <a href="assets/CV Lukmanul Hakim.pdf" class="btn-1 outer-shadow hover-in-shadow"> Download CV </a>
-                    <a href="#" class="btn-1 outer-shadow hover-in-shadow"> Hire me </a>
+                    <a href="#contact" class="link-item btn-1 outer-shadow hover-in-shadow"> Hire me </a>
                 </div>
             </div>
             <!-- about tab start -->
@@ -356,7 +384,7 @@
     </section>
     <!-- abbout section end -->
     <!-- service section start -->
-    <section class="service-section section">
+    <section class="service-section section" id="services">
         <div class="container">
             <div class="row">
                 <div class="section-title">
@@ -435,7 +463,7 @@
     </section>
     <!-- service section end -->
     <!-- portfolio section start -->
-    <section class="portfolio-section section">
+    <section class="portfolio-section section" id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="section-title">
@@ -648,7 +676,7 @@
     <!-- portfolio section end -->
 
     <!-- contact section start -->
-    <section class="contact-section section">
+    <section class="contact-section section" id="contact">
         <div class="container">
             <div class="row">
                 <div class="section-title">
@@ -717,8 +745,6 @@
     </section>
 
     <!-- contact section end -->
-
-    <!-- portfolio popup start -->
     <!-- portfolio popup start -->
     <div class="pp portfolio-popup">
         <div class="pp-details">
@@ -776,8 +802,30 @@
         </div>
     </div>
     <!-- portfolio popup end -->
+
+    <!-- style switcher start -for demo purposed -->
+    <div class="style-switcher outer-shadow">
+        <div class="style-switcher-toggler s-icon outer-shadow hover-in-shadow">
+            <i class="fas fa-cog fa-spin"></i>
+        </div>
+        <div class="day-night s-icon outer-shadow hover-in-shadow">
+            <i class="fas"></i>
+        </div>
+        <h4>
+            Theme Color
+        </h4>
+        <div class="colors">
+            <span class="color-1" onclick="setActiveStyle('color-1')"></span>
+            <span class="color-2" onclick="setActiveStyle('color-2')"></span>
+            <span class="color-3" onclick="setActiveStyle('color-3')"></span>
+            <span class="color-4" onclick="setActiveStyle('color-4')"></span>
+            <span class="color-5" onclick="setActiveStyle('color-5')"></span>
+        </div>
+    </div>
+    <!-- style switcher end -for demo purposed -->
     <!-- main js -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/style-switcher.js"></script>
 </body>
 
 </html>
