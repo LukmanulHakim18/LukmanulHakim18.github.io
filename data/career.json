@@ -1,0 +1,46 @@
+{
+  "timeline": {
+    "item": [
+      {
+        "start": "April, 2022",
+        "end": "Present",
+        "position": "Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Make new feature and maintenance old code, make system more stable."
+      },
+      {
+        "start": "April, 2022",
+        "end": "Present",
+        "position": "Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Make new feature and maintenance old code, make system more stable."
+      },
+      {
+        "start": "April, 2019",
+        "end": "2022",
+        "position": "Back-end Developer",
+        "company": "Sprint Asia Technology",
+        "location": "Indonesia",
+        "summary": "saya adalah seorang beckend developer disalah satu perusahaan swasta di jakarta selatan, saya sendiri adalah seorang yang sangat gemar dengan problem solving dan inovasi inovasi baru terkait dunia teknologi."
+      },
+      {
+        "start": "Dec, 2018",
+        "end": "Maret, 2019",
+        "position": "full stack developer",
+        "company": "SLN Express",
+        "location": "Indonesia",
+        "summary": "Revamp website dan apk perusahaan yang dapat digunakan melakukan pengiriman mobil keseluruh indonesia."
+      },
+      {
+        "start": "Sept, 2016",
+        "end": "Dec, 2018",
+        "position": "full stack developer",
+        "company": "Satria Laut Nusantara",
+        "location": "Indonesia",
+        "summary": "Membuat website dan apk perusahaan yang dapat digunakan melakukan pengiriman mobil keseluruh indonesia."
+      }
+    ]
+  }
+}
