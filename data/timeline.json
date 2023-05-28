@@ -1,0 +1,127 @@
+{
+  "timeline": {
+    "experience": [
+      {
+        "start": "April, 2022",
+        "end": "Present",
+        "position": "Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Make new feature and maintenance old code, make system more stable."
+      },
+      {
+        "start": "April, 2022",
+        "end": "Present",
+        "position": "Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Make new feature and maintenance old code, make system more stable."
+      },
+      {
+        "start": "April, 2019",
+        "end": "2022",
+        "position": "Back-end Developer",
+        "company": "Sprint Asia Technology",
+        "location": "Indonesia",
+        "summary": "saya adalah seorang beckend developer disalah satu perusahaan swasta di jakarta selatan, saya sendiri adalah seorang yang sangat gemar dengan problem solving dan inovasi inovasi baru terkait dunia teknologi."
+      },
+      {
+        "start": "Dec, 2018",
+        "end": "Maret, 2019",
+        "position": "full stack developer",
+        "company": "SLN Express",
+        "location": "Indonesia",
+        "summary": "Revamp website dan apk perusahaan yang dapat digunakan melakukan pengiriman mobil keseluruh indonesia."
+      },
+      {
+        "start": "Sept, 2016",
+        "end": "Dec, 2018",
+        "position": "full stack developer",
+        "company": "Satria Laut Nusantara",
+        "location": "Indonesia",
+        "summary": "Membuat website dan apk perusahaan yang dapat digunakan melakukan pengiriman mobil keseluruh indonesia."
+      }
+    ],
+    "education": [
+      {
+        "start": "2013",
+        "end": "2019",
+        "position": "Informatics Engineering",
+        "company": "UIN Sultan Syarif Kasim",
+        "location": "Riau - Indonesia",
+        "summary": "Selama kuliah pernah menjadi asisten dosen dan mengikuti beberapa sertifikasi dan lulus diantaranya dari Microsoft `Microsoft Technology Associate` dan BNSP `Sertifikat Kompetensi pengembangan perangkat lunak`"
+      },
+      {
+        "start": "2010",
+        "end": "2013",
+        "position": "senior High School",
+        "company": "MAN 039",
+        "location": "Indragiri Hilir - Indonesia",
+        "summary": "Selama bersekolah disini pernah mengikuti O2SN Matematika tingkat provinsi."
+      },
+      {
+        "start": "2007",
+        "end": "2010",
+        "position": "Junior High School",
+        "company": "MTsN Enok",
+        "location": "Indragiri Hilir - Indonesia",
+        "summary": "senang melakukan petualangan dan membuat banyak pertemanan dan relasi yang baik hingga saat ini."
+      },
+
+      {
+        "start": "2001",
+        "end": "2007",
+        "position": "primary school",
+        "company": "MI Sabilil Huda",
+        "location": "Indragiri Hilir - Indonesia",
+        "summary": "Pada jenjang ini saya senang sekali membaca buku dan membuat beragam perpercobaan dan pernah membuat bel listrik bersama orang tua saya."
+      },
+      {
+        "start": "1999",
+        "end": "2001",
+        "position": "kindergarten",
+        "company": "TK Pratiwi",
+        "location": "Kuala Enok - Indonesia",
+        "summary": "Sudah lupa pengalaman di sekolah ini dan pastinya saya menikmati dengan sangat."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "value_percent": 70
+      },
+      {
+        "name": "Golang",
+        "value_percent": 850
+      },
+      {
+        "name": "CSS",
+        "value_percent": 65
+      },
+      {
+        "name": "Javascript",
+        "value_percent": 50
+      },
+      {
+        "name": "Boostrap",
+        "value_percent": 70
+      },
+      {
+        "name": "PHP",
+        "value_percent": 70
+      },
+      {
+        "name": "Laravel",
+        "value_percent": 70
+      },
+      {
+        "name": "Lumen",
+        "value_percent": 70
+      },
+      {
+        "name": "Python",
+        "value_percent": 50
+      }
+    ]
+  }
+}
