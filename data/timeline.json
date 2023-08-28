@@ -2,16 +2,24 @@
   "timeline": {
     "experience": [
       {
-        "start": "April, 2022",
+        "start": "June, 2023",
         "end": "Present",
-        "position": "Back-End Developer",
+        "position": "Senior Back-End Developer",
         "company": "Bluebird Group",
         "location": "Indonesia",
-        "summary": "Make new feature and maintenance old code, make system more stable."
+        "summary": "Participate in the development of new Microservices. Applying the latest technology and not forgetting backwards compatibility refactoring code, clean architecture, and using design patterns where necessary. To further speed up the work process, we designed the ENERA generator (service/lib) to support speed in migrating this system."
+      },
+      {
+        "start": "August, 2022",
+        "end": "June, 2023",
+        "position": "Middle Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Participate in the reliability team, to increase system efficiency create several supporting libraries. Implementing google ODRD (on-demand-rides-deliveries-solution)"
       },
       {
         "start": "April, 2022",
-        "end": "Present",
+        "end": "August, 2022",
         "position": "Back-End Developer",
         "company": "Bluebird Group",
         "location": "Indonesia",
