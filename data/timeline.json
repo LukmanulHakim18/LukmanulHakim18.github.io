@@ -2,8 +2,16 @@
   "timeline": {
     "experience": [
       {
-        "start": "June, 2023",
+        "start": "Jul, 2025",
         "end": "Present",
+        "position": "Architect Engineer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Designing Bluebird microservices for customer reservation, ensuring reliability and scalability."
+      },
+      {
+        "start": "June, 2023",
+        "end": "Jul, 2025",
         "position": "Senior Back-End Developer",
         "company": "Bluebird Group",
         "location": "Indonesia",
@@ -31,7 +39,7 @@
         "position": "Back-end Developer",
         "company": "Sprint Asia Technology",
         "location": "Indonesia",
-        "summary": "saya adalah seorang beckend developer disalah satu perusahaan swasta di jakarta selatan, saya sendiri adalah seorang yang sangat gemar dengan problem solving dan inovasi inovasi baru terkait dunia teknologi."
+        "summary": "I am a backend developer at a private company in South Jakarta. I am a person who is very fond of problem solving and new innovations related to the world of technology."
       },
       {
         "start": "Dec, 2018",
@@ -39,7 +47,7 @@
         "position": "full stack developer",
         "company": "SLN Express",
         "location": "Indonesia",
-        "summary": "Revamp website dan apk perusahaan yang dapat digunakan melakukan pengiriman mobil keseluruh indonesia."
+        "summary": "Revamp company website and app that can be used to ship cars throughout Indonesia."
       },
       {
         "start": "Sept, 2016",
@@ -47,7 +55,7 @@
         "position": "full stack developer",
         "company": "Satria Laut Nusantara",
         "location": "Indonesia",
-        "summary": "Membuat website dan apk perusahaan yang dapat digunakan melakukan pengiriman mobil keseluruh indonesia."
+        "summary": "Create company website and app that can be used to ship cars throughout Indonesia."
       }
     ],
     "education": [
@@ -57,7 +65,7 @@
         "position": "Informatics Engineering",
         "company": "UIN Sultan Syarif Kasim",
         "location": "Riau - Indonesia",
-        "summary": "Selama kuliah pernah menjadi asisten dosen dan mengikuti beberapa sertifikasi dan lulus diantaranya dari Microsoft `Microsoft Technology Associate` dan BNSP `Sertifikat Kompetensi pengembangan perangkat lunak`"
+        "summary": "During college, I was a lecturer assistant and took several certifications and passed, including from Microsoft `Microsoft Technology Associate` and BNSP `Software Development Competency Certificate`"
       },
       {
         "start": "2010",
@@ -65,7 +73,7 @@
         "position": "senior High School",
         "company": "MAN 039",
         "location": "Indragiri Hilir - Indonesia",
-        "summary": "Selama bersekolah disini pernah mengikuti O2SN Matematika tingkat provinsi."
+        "summary": "During school here, I participated in the provincial level O2SN Mathematics."
       },
       {
         "start": "2007",
@@ -73,16 +81,15 @@
         "position": "Junior High School",
         "company": "MTsN Enok",
         "location": "Indragiri Hilir - Indonesia",
-        "summary": "senang melakukan petualangan dan membuat banyak pertemanan dan relasi yang baik hingga saat ini."
+        "summary": "Enjoyed adventures and making many good friends and relationships until now."
       },
-
       {
         "start": "2001",
         "end": "2007",
         "position": "primary school",
         "company": "MI Sabilil Huda",
         "location": "Indragiri Hilir - Indonesia",
-        "summary": "Pada jenjang ini saya senang sekali membaca buku dan membuat beragam perpercobaan dan pernah membuat bel listrik bersama orang tua saya."
+        "summary": "At this level, I really enjoyed reading books and doing various experiments and once made an electric bell with my parents."
       },
       {
         "start": "1999",
@@ -90,7 +97,7 @@
         "position": "kindergarten",
         "company": "TK Pratiwi",
         "location": "Kuala Enok - Indonesia",
-        "summary": "Sudah lupa pengalaman di sekolah ini dan pastinya saya menikmati dengan sangat."
+        "summary": "Already forgot the experience in this school and surely I enjoyed it very much."
       }
     ],
     "skills": [
