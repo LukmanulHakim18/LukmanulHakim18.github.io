@@ -19,7 +19,6 @@ function setActiveStyle(color) {
   changeColor();
 }
 function changeColor() {
-  console.log(localStorage.getItem("color"));
   alternateStyles.forEach((style) => {
     if (localStorage.getItem("color") === style.getAttribute("title")) {
       style.removeAttribute("disabled");
@@ -30,8 +29,6 @@ function changeColor() {
 }
 if (localStorage.getItem("color") !== null) {
   changeColor();
-} else {
-  console.log("notExist");
 }
 
 // theme dark light mode
@@ -41,6 +38,7 @@ dayNight.addEventListener("click", () => {
   dayNight.querySelector("i").classList.toggle("fa-sun");
   dayNight.querySelector("i").classList.toggle("fa-moon");
   document.body.classList.toggle("dark");
+  localStorage.setItem("darkMode", document.body.classList.contains("dark").toString());
 });
 window.addEventListener("load", () => {
   if (document.body.classList.contains("dark")) {

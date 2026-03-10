@@ -1,7 +1,9 @@
 // --------------------Navigation Menu--------------------
 
 (() => {
-  document.body.classList.toggle("dark");
+  if (localStorage.getItem("darkMode") !== "false") {
+    document.body.classList.add("dark");
+  }
   const hamburgerBtn = document.querySelector(".hamburger-btn"),
     navMenu = document.querySelector(".nav-menu"),
     closeNavBtn = navMenu.querySelector(".close-nav-menu");
@@ -80,7 +82,6 @@
       !event.target.classList.contains("active")
     ) {
       const target = event.target.getAttribute("data-target");
-      console.log(target);
       //deactive tab item
       tabsContainer
         .querySelector(".active")
@@ -113,7 +114,7 @@ function bodyScrollingToggle() {
     projectDetailsContainer = popup.querySelector(".pp-details"),
     projectDetailsBtn = popup.querySelector(".pp-project-details-btn");
 
-  let ItemIndex, slideIndex, screenshots;
+  let itemIndex, slideIndex, screenshots;
 
   filterContainer.addEventListener("click", (event) => {
     if (
