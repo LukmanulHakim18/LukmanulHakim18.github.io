@@ -23,9 +23,7 @@ form.addEventListener('submit', e => {
         })
         .catch(error => {
             console.error('Error!', error.message)
-            console.log('Success!', response)
             loadingBtn.style.display = "none";
             submitBtn.style.display = "block";
-            myAlert.style.display = "block";
         })
 })

@@ -1,0 +1,142 @@
+{
+  "timeline": {
+    "experience": [
+      {
+        "start": "Jul, 2025",
+        "end": "Present",
+        "position": "Architect Engineer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Designing Bluebird microservices for customer reservation, ensuring reliability and scalability."
+      },
+      {
+        "start": "June, 2023",
+        "end": "Jul, 2025",
+        "position": "Senior Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Participate in the development of new Microservices. Applying the latest technology and not forgetting backwards compatibility refactoring code, clean architecture, and using design patterns where necessary. To further speed up the work process, we designed the ENERA generator (service/lib) to support speed in migrating this system."
+      },
+      {
+        "start": "August, 2022",
+        "end": "June, 2023",
+        "position": "Middle Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Participate in the reliability team, to increase system efficiency create several supporting libraries. Implementing google ODRD (on-demand-rides-deliveries-solution)"
+      },
+      {
+        "start": "April, 2022",
+        "end": "August, 2022",
+        "position": "Back-End Developer",
+        "company": "Bluebird Group",
+        "location": "Indonesia",
+        "summary": "Make new feature and maintenance old code, make system more stable."
+      },
+      {
+        "start": "April, 2019",
+        "end": "2022",
+        "position": "Back-end Developer",
+        "company": "Sprint Asia Technology",
+        "location": "Indonesia",
+        "summary": "I am a backend developer at a private company in South Jakarta. I am a person who is very fond of problem solving and new innovations related to the world of technology."
+      },
+      {
+        "start": "Dec, 2018",
+        "end": "Maret, 2019",
+        "position": "full stack developer",
+        "company": "SLN Express",
+        "location": "Indonesia",
+        "summary": "Revamp company website and app that can be used to ship cars throughout Indonesia."
+      },
+      {
+        "start": "Sept, 2016",
+        "end": "Dec, 2018",
+        "position": "full stack developer",
+        "company": "Satria Laut Nusantara",
+        "location": "Indonesia",
+        "summary": "Create company website and app that can be used to ship cars throughout Indonesia."
+      }
+    ],
+    "education": [
+      {
+        "start": "2013",
+        "end": "2019",
+        "position": "Informatics Engineering",
+        "company": "UIN Sultan Syarif Kasim",
+        "location": "Riau - Indonesia",
+        "summary": "During college, I was a lecturer assistant and took several certifications and passed, including from Microsoft `Microsoft Technology Associate` and BNSP `Software Development Competency Certificate`"
+      },
+      {
+        "start": "2010",
+        "end": "2013",
+        "position": "senior High School",
+        "company": "MAN 039",
+        "location": "Indragiri Hilir - Indonesia",
+        "summary": "During school here, I participated in the provincial level O2SN Mathematics."
+      },
+      {
+        "start": "2007",
+        "end": "2010",
+        "position": "Junior High School",
+        "company": "MTsN Enok",
+        "location": "Indragiri Hilir - Indonesia",
+        "summary": "Enjoyed adventures and making many good friends and relationships until now."
+      },
+      {
+        "start": "2001",
+        "end": "2007",
+        "position": "primary school",
+        "company": "MI Sabilil Huda",
+        "location": "Indragiri Hilir - Indonesia",
+        "summary": "At this level, I really enjoyed reading books and doing various experiments and once made an electric bell with my parents."
+      },
+      {
+        "start": "1999",
+        "end": "2001",
+        "position": "kindergarten",
+        "company": "TK Pratiwi",
+        "location": "Kuala Enok - Indonesia",
+        "summary": "Already forgot the experience in this school and surely I enjoyed it very much."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "value_percent": 70
+      },
+      {
+        "name": "Golang",
+        "value_percent": 85
+      },
+      {
+        "name": "CSS",
+        "value_percent": 65
+      },
+      {
+        "name": "Javascript",
+        "value_percent": 50
+      },
+      {
+        "name": "Boostrap",
+        "value_percent": 70
+      },
+      {
+        "name": "PHP",
+        "value_percent": 70
+      },
+      {
+        "name": "Laravel",
+        "value_percent": 70
+      },
+      {
+        "name": "Lumen",
+        "value_percent": 70
+      },
+      {
+        "name": "Python",
+        "value_percent": 50
+      }
+    ]
+  }
+}
